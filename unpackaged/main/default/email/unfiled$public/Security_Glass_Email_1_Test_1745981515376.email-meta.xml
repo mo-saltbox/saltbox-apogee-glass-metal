@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Security Glass Email 1 Test</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Security Glass Email 1 Test</name>
+    <pageDevName>Security_Glass_Email_1_Test</pageDevName>
+    <style>none</style>
+    <subject>Enhance Building Security with Viracon’s Laminated Glass Solutions</subject>
+    <textOnly>Viracon’s security glass portfolio &lt; https://www.viracon.com/security/ &gt; features a range of laminated glass products engineered to help deter forced-entry threats while supporting modern design goals. Tested to meet the rigorous ASTM F3561 standard test method &lt; https://store.astm.org/f3561-22.html &gt; for security glazing performance, our laminated glass solutions offer enhanced protection for building occupants without sacrificing natural daylighting or aesthetic appeal. As security concerns grow, trust Viracon’s proven expertise to deliver high-performance laminated glass that meets today’s evolving safety and design requirements.Interlayers matter when selecting security glass
+
+Viracon laminated glass features one or more interlayers bonded between two or more glass plies using heat and pressure.
+
+Our laminated glass performance levels have been tested in accordance with ASTM F3561 Appendix X1, glass-only performance capability.
+
+Explore Viracon Security Glass Projects
+
+Cancer and Cardiovascular Research Building - University of Minnesota
+
+Federal Judiciary Building (Thurgood Marshall) 
+
+Henry L. Mayfield Elementary School
+
+Add Viracon Security Glass to Your Next Project
+
+Learn more about Viracon security glass solutions at viracon.com/security.Download our Security Offering Brochure for quick reference. Contact your Viracon sales representative or Architectural Glass Studio associate today. 
+
+{{{Unsubscribe}}} 
+
+Figure out footer</textOnly>
+    <type>custom</type>
+    <uiType>SFX</uiType>
+</EmailTemplate>

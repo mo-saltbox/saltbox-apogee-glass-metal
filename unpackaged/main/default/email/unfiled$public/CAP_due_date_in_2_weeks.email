@@ -1,0 +1,12 @@
+Automated Message from Salesforce
+****************************************
+
+The following project has a CAP Due Date in 2 weeks or sooner:
+
+Project Type: {!Project_Coordination__c.Project_Type__c}
+Project Name: {!Project_Coordination__c.Name}
+Project Coordinator: {!Project_Coordination__c.OwnerFullName}
+CAP Due Date from customer:
+{!Project_Coordination__c.CAP_Due_Date__c}
+
+{!Project_Coordination__c.Link}

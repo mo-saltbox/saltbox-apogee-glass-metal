@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Viracon VP of Sales</label>
+    <protected>false</protected>
+    <values>
+        <field>Account_Access__c</field>
+        <value xsi:type="xsd:string">Read</value>
+    </values>
+    <values>
+        <field>Brand__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>Case_Access__c</field>
+        <value xsi:type="xsd:string">Edit</value>
+    </values>
+    <values>
+        <field>Contact_Access__c</field>
+        <value xsi:type="xsd:string">Edit</value>
+    </values>
+    <values>
+        <field>Division__c</field>
+        <value xsi:type="xsd:string">Viracon</value>
+    </values>
+    <values>
+        <field>Opp_Access__c</field>
+        <value xsi:type="xsd:string">Edit</value>
+    </values>
+    <values>
+        <field>Role__c</field>
+        <value xsi:type="xsd:string">Viracon - VP of Sales</value>
+    </values>
+    <values>
+        <field>Territory_Label__c</field>
+        <value xsi:type="xsd:string">Viracon</value>
+    </values>
+    <values>
+        <field>User_Email__c</field>
+        <value xsi:type="xsd:string">ghenson@viracon.com</value>
+    </values>
+</CustomMetadata>

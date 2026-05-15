@@ -1,0 +1,8 @@
+Automated Message from Salesforce
+****************************************
+
+Project "{!Opportunity.Name}" was quoted more than 2 weeks ago. Notes or other field last modified on {!Opportunity.LastModifiedDate} by {!Opportunity.LastModifiedBy}
+
+ Please follow up with the customer to determine what is needed to close this order.
+
+{!Opportunity.Link}

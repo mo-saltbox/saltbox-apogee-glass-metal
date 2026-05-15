@@ -1,0 +1,17 @@
+Hello,
+
+An Opportunity has been designated as a Renovation Project here: {!Opportunity.Link}
+
+Name: {!Opportunity.Name}
+Account: {!Opportunity.Account}
+
+Sales Rep: {!Opportunity.OwnerFullName}
+Sales Rep Email: {!Opportunity.OwnerEmail}
+Sales Rep Phone: {!Opportunity.OwnerPhone}
+
+Additional Information about the Project:
+Project City:{!Opportunity.Project_City__c}
+Project State:{!Opportunity.Project_State__c}
+Project Building Type: {!Opportunity.Building_Type__c}
+BU Project Value: {!Opportunity.Amount}
+Action Plan To Win: {!Opportunity.Action_Plan_to_Win__c}

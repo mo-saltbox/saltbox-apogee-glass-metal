@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Viracon Price Increase Letter</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Viracon Template Email</name>
+    <pageDevName>Viracon_Template_Email</pageDevName>
+    <style>none</style>
+    <subject>Viracon Price Increase Letter</subject>
+    <textOnly>Insert Text Here</textOnly>
+    <type>custom</type>
+    <uiType>SFX</uiType>
+</EmailTemplate>

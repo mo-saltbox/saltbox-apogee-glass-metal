@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Inboard Lite Heat Treatment</label>
+    <protected>false</protected>
+    <values>
+        <field>AddInfo__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>Field_Values__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>Title__c</field>
+        <value xsi:type="xsd:string">Inboard Lite Heat Treatment</value>
+    </values>
+    <values>
+        <field>Type__c</field>
+        <value xsi:type="xsd:string">Inboard Lite Heat Treatment</value>
+    </values>
+    <values>
+        <field>VQC_MakeUp_Type__c</field>
+        <value xsi:type="xsd:string">Insulating_Laminated_Glass</value>
+    </values>
+    <values>
+        <field>Visual_Reference__c</field>
+        <value xsi:type="xsd:string">E</value>
+    </values>
+</CustomMetadata>

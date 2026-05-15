@@ -1,0 +1,6 @@
+Automated Message from Salesforce
+****************************************
+
+Project "{!Opportunity.Name}" was quoted 4 days ago. Please follow up with the customer to determine what is needed to close this order.
+
+{!Opportunity.Link}

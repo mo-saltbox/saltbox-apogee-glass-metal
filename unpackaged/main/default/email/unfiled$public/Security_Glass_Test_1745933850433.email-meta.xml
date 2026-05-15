@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Security Campaign Email 1</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Security Glass Test</name>
+    <pageDevName>Security_Glass_Test</pageDevName>
+    <relatedEntityType>Contact</relatedEntityType>
+    <style>none</style>
+    <subject>Interlayers Matter in Security Glass</subject>
+    <textOnly>{{{Unsubscribe}}} ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+
+Viracon Laminated Security Glass &lt; https://www.viracon.com/security/ &gt;  &lt; https://www.viracon.com/security/ &gt; is resistant to vandalism, burglary, forced entry, ballistics, and bomb blasts. Our security glass uses various interlayers to build thickness and resistance, meeting the American Society for Testing and Materials ASTM F3561 &lt; https://store.astm.org/f3561-22.html &gt; forced-entry resistant testing specification. This specification sets the standard for various building types: retail, mixed-use, office, schools, hospitals, government, and high-level security facilities.
+
+Viracon Security Glass, with a minimum 0.60” PVB interlayer, is burglar-resistant, meeting UL 972.
+
+Our security glass is manufactured to comply with ASTM F3561 testing to qualify threat-level protection.
+
+Broken glass fragments tend to adhere to laminated interlayers in event of a blast impulse.
+
+**Interlayers Matter when Selecting Security Glass
+----------------------------------------------------
+
+Viracon Interlayers are laminated between monolithic glass.
+
+They optimize security glass solutions for different building applications that conform to ASTM F3561, Appendix X1 Testing for Security and Glass-only Performance Levels.
+
+Explore Viracon Security Glass Projects
+
+Cancer and Cardiovascular Research Building - University of Minnesota
+
+Federal Judiciary Building(Thurgood Marshall)
+
+Henry L. Mayfield Elementary School
+
+Add Viracon Security Glass to Your Next Project
+
+Learn more about Viracon Security Glass solutions at viracon.com/security &lt; https://www.viracon.com/security &gt; .Download  &lt; https://www.viracon.com/wp-content/uploads/2025/03/Viracon-Security-Brochure_Final_325.pdf &gt; our Security Offering Brochure for quick reference.Contact  &lt; https://viracon.com/contact &gt; your Viracon sales representative or architectural glass studio team today.
+
+{{{Unsubscribe}}}</textOnly>
+    <type>custom</type>
+    <uiType>SFX</uiType>
+</EmailTemplate>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Mono Modifier over 75 less 85sqft</label>
+    <protected>false</protected>
+    <values>
+        <field>Amount__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>Driver__c</field>
+        <value xsi:type="xsd:string">Unit Size</value>
+    </values>
+    <values>
+        <field>Glass_Makeup_Type__c</field>
+        <value xsi:type="xsd:string">Monolithic Glass</value>
+    </values>
+    <values>
+        <field>Lower_Limit__c</field>
+        <value xsi:type="xsd:double">75.0</value>
+    </values>
+    <values>
+        <field>Modifier_Percent__c</field>
+        <value xsi:type="xsd:double">0.75</value>
+    </values>
+    <values>
+        <field>Product_Name__c</field>
+        <value xsi:type="xsd:string">Rectangles &gt;= 75ft² and &lt;85ft²</value>
+    </values>
+    <values>
+        <field>Type__c</field>
+        <value xsi:type="xsd:string">Modifier</value>
+    </values>
+    <values>
+        <field>Upper_Limit__c</field>
+        <value xsi:type="xsd:double">85.0</value>
+    </values>
+</CustomMetadata>

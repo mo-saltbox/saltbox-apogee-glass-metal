@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Linetec Lead Assignment</name>
+    <style>none</style>
+    <subject>You Have a New Lead Assigned</subject>
+    <textOnly>Hi {!Lead.OwnerFirstName},  You have a new Lead assigned.  View Lead details here: {!Lead.Link}</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

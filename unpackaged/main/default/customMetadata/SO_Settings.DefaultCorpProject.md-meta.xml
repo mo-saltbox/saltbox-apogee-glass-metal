@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>DefaultCorpProject</label>
+    <protected>false</protected>
+    <values>
+        <field>Currency1__c</field>
+        <value xsi:nil="true" />
+    </values>
+    <values>
+        <field>Currency2__c</field>
+        <value xsi:nil="true" />
+    </values>
+    <values>
+        <field>Date1__c</field>
+        <value xsi:nil="true" />
+    </values>
+    <values>
+        <field>Date2__c</field>
+        <value xsi:nil="true" />
+    </values>
+    <values>
+        <field>DateTime1__c</field>
+        <value xsi:nil="true" />
+    </values>
+    <values>
+        <field>DateTime2__c</field>
+        <value xsi:nil="true" />
+    </values>
+    <values>
+        <field>Description__c</field>
+        <value xsi:type="xsd:string">Use this record to store the name of the Account in TEXT1 that should be associated with Projects with the Corporate Project Record Type.   Use the value in Text2 to find the full name (first +&#39; &#39; + last) of the User that should be the owner of the new Corporate Location record.</value>
+    </values>
+    <values>
+        <field>Email__c</field>
+        <value xsi:nil="true" />
+    </values>
+    <values>
+        <field>ID__c</field>
+        <value xsi:nil="true" />
+    </values>
+    <values>
+        <field>Integer1__c</field>
+        <value xsi:nil="true" />
+    </values>
+    <values>
+        <field>Integer2__c</field>
+        <value xsi:nil="true" />
+    </values>
+    <values>
+        <field>Number_14_4_1__c</field>
+        <value xsi:nil="true" />
+    </values>
+    <values>
+        <field>Number_14_4_2__c</field>
+        <value xsi:nil="true" />
+    </values>
+    <values>
+        <field>Opportunity_RT_Name__c</field>
+        <value xsi:nil="true" />
+    </values>
+    <values>
+        <field>Pricebook_Name__c</field>
+        <value xsi:nil="true" />
+    </values>
+    <values>
+        <field>Text1__c</field>
+        <value xsi:type="xsd:string">WAUSAU APOGEE GRP</value>
+    </values>
+    <values>
+        <field>Text2__c</field>
+        <value xsi:type="xsd:string">David Winslow</value>
+    </values>
+    <values>
+        <field>URL__c</field>
+        <value xsi:nil="true" />
+    </values>
+</CustomMetadata>

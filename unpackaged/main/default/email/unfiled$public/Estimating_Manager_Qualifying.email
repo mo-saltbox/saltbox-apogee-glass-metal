@@ -1,0 +1,5 @@
+"{!Opportunity.Name}" has reached the "Qualifying" stage, and we require your valuable input to move forward.  Your role in this process is crucial, and your prompt attention to this matter is needed.  Please follow the link below to review the Project Details.
+
+Bid Due Date: {!Opportunity.Bid_Due_Date__c}
+
+{!Opportunity.Link}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>VS-08 #2 LG</label>
+    <protected>false</protected>
+    <values>
+        <field>Amount__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>Available_Option__c</field>
+        <value xsi:type="xsd:string">VS-08 #2</value>
+    </values>
+    <values>
+        <field>Controlling_Product__c</field>
+        <value xsi:type="xsd:string">Laminated Glass</value>
+    </values>
+    <values>
+        <field>Controlling_Type__c</field>
+        <value xsi:type="xsd:string">Glass</value>
+    </values>
+    <values>
+        <field>Dependent_Product_Type__c</field>
+        <value xsi:type="xsd:string">Coating</value>
+    </values>
+    <values>
+        <field>Option_Abbreviation__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>Price_Method__c</field>
+        <value xsi:type="xsd:string">List</value>
+    </values>
+</CustomMetadata>

@@ -1,0 +1,4 @@
+<p>Hello {!Quote.ContactNameFx__c},</p>
+<p>The following Quote Request is more than 30 days old.<br />Quote Request Number: {!Quote.QuoteNumber}<br />Quote Request Name: {!Quote.Name}<br />Project: {!Quote.Project_Name__c}</p>
+<p>Please contact your Viracon Representative to place your order.</p>
+<p>Thank you!</p>

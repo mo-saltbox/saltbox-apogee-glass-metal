@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DelegateGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customObjects>Project_Influencers</customObjects>
+    <label>Delegated Admin - Viracon</label>
+    <loginAccess>true</loginAccess>
+    <profiles>Viracon - Standard User</profiles>
+    <roles>Viracon Architectural Design</roles>
+    <roles>Viracon Field Sales</roles>
+    <roles>Viracon Sales Manager</roles>
+    <roles>Viracon</roles>
+</DelegateGroup>

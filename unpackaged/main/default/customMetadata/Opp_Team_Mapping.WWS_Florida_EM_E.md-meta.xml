@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>WWS Florida EM EFCO</label>
+    <protected>false</protected>
+    <values>
+        <field>Access_Level__c</field>
+        <value xsi:type="xsd:string">Edit</value>
+    </values>
+    <values>
+        <field>Approval_Lower_Limit__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>Approval_Upper_Limit__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>Brand__c</field>
+        <value xsi:type="xsd:string">EFCO</value>
+    </values>
+    <values>
+        <field>Division__c</field>
+        <value xsi:type="xsd:string">WWS</value>
+    </values>
+    <values>
+        <field>Role__c</field>
+        <value xsi:type="xsd:string">WWS - Estimating Manager</value>
+    </values>
+    <values>
+        <field>Territory_Label__c</field>
+        <value xsi:type="xsd:string">Florida</value>
+    </values>
+    <values>
+        <field>User_Email__c</field>
+        <value xsi:type="xsd:string">mwilson@efcocorp.com</value>
+    </values>
+</CustomMetadata>

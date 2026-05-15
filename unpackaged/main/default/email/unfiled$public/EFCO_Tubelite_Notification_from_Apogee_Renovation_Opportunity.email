@@ -1,0 +1,18 @@
+Hello,
+
+A new Opportunity has been shared with you from the Apogee Renovation team.
+
+Name: {!Opportunity.Name}
+Account: {!Opportunity.Account}
+
+An Apogee Renovation Account Executive will be reaching out to you to discuss the Project.
+Account Executive Name: {!Opportunity.OwnerFullName}
+Account Executive Phone: {!Opportunity.OwnerPhone}
+Account Executive Email: {!Opportunity.OwnerEmail}
+
+Additional Information about the Project:
+Project City:{!Opportunity.Project_City__c}
+Project State:{!Opportunity.Project_State__c}
+Project Building Type: {!Opportunity.Building_Type__c}
+BU Project Value: {!Opportunity.Amount}
+Action Plan To Win: {!Opportunity.Action_Plan_to_Win__c}

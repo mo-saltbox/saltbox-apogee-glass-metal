@@ -1,0 +1,8 @@
+Automated Message from Salesforce
+****************************************
+
+Expected Order Date: {!Opportunity.CloseDate}
+
+Project "{!Opportunity.Name}" was marked "Won" but has not been completely written. 
+
+Please follow up with the customer to determine what is needed to close this order.

@@ -1,0 +1,3 @@
+Hi {!Lead.OwnerFirstName},
+
+You have a new Lead assigned.  View Lead details here: {!Lead.Link}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Email template for Quote Created more than 30 days ago</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Viracon Quote Greater Than 30 days</name>
+    <style>none</style>
+    <subject>Your quote request is more than 30 days old.</subject>
+    <textOnly>Hello {!Quote.ContactNameFx__c},
+
+The following Quote Request is more than 30 days old.
+Quote Request Number: {!Quote.QuoteNumber}
+Quote Request Name: {!Quote.Name}
+Project: {!Quote.Project_Name__c}
+
+Please contact your Viracon Representative to place your order.
+
+Thank you!</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

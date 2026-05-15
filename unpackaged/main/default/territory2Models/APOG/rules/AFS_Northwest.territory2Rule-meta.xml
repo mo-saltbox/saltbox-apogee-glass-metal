@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Territory2Rule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <booleanFilter>1 OR (2 AND 3) OR (4 AND 5) OR (6 AND (7 OR 8)) OR (9 AND 10)</booleanFilter>
+    <name>AFS Northwest</name>
+    <objectType>Account</objectType>
+    <ruleItems>
+        <field>Account.BillingStateCode</field>
+        <operation>contains</operation>
+        <value>AK,WA,OR</value>
+    </ruleItems>
+    <ruleItems>
+        <field>Account.BillingStateCode</field>
+        <operation>contains</operation>
+        <value>ID</value>
+    </ruleItems>
+    <ruleItems>
+        <field>Account.BillingPostalCode</field>
+        <operation>equals</operation>
+        <value>83501,83520,83523,83524,83535,83536,83537,83540,83541,83543,83544,83545,83546,83548,83553,83555,83801,83802,83803,83804,83805,83806,83808,83809,83810,83811,83812,83813,83814,83815,83816,83821,83822,83823,83824,83825,83826,83827,83830,83832,83833,83834,83835,83836,83837,83839,83840,83841,83842,83843,83844,83845,83846,83847,83848,83849,83850,83851,83852,83853,83854,83855,83856,83857,83858,83860,83861,83864,83865,83866,83867,83868,83869,83870,83871,83872,838,73,83874,83876,83877,83888</value>
+    </ruleItems>
+    <ruleItems>
+        <field>Account.BillingStateCode</field>
+        <operation>contains</operation>
+        <value>MT</value>
+    </ruleItems>
+    <ruleItems>
+        <field>Account.BillingPostalCode</field>
+        <operation>equals</operation>
+        <value>59801,59802,59803,59804,59806,59807,59808,59812,59820,59821,59823,59824,59825,59826,59830,59831,59834,59842,59844,59845,59846,59847,59848,59851,59853,59855,59856,59859,59860,59863,59864,59865,59866,59867,59868,59872,59873,59874,59901,59902,59903,59904,59910,59911,59912,59913,59914,59915,59916,59917,59918,59919,59920,59921,59922,59923,59925,59926,59927,59928,59929,59930,59931,59932,59933,59934,59935,59936,59937</value>
+    </ruleItems>
+    <ruleItems>
+        <field>Account.BillingStateCode</field>
+        <operation>contains</operation>
+        <value>CA</value>
+    </ruleItems>
+    <ruleItems>
+        <field>Account.BillingPostalCode</field>
+        <operation>equals</operation>
+        <value>93210,93234,93242,93426,93450,93512,93517,93529,93541,93546,93601,93602,93604,93605,93606,93607,93608,93609,93610,93611,93612,93613,936114,93616,93620,93621,93622,93623,93624,93625,93626,93627,93628,93630,93631,93634,93635,93637,93638,93639,93640,93641,93642,93643,93644,93645,93646,93648,93649,93650,93651,93652,93653,93654,93656,93657,93660,93661,93662,93664,93665,93667,93668,93669,93675</value>
+    </ruleItems>
+    <ruleItems>
+        <field>Account.BillingPostalCode</field>
+        <operation>startsWith</operation>
+        <value>937,938,939,94,95,96</value>
+    </ruleItems>
+    <ruleItems>
+        <field>Account.BillingStateCode</field>
+        <operation>contains</operation>
+        <value>NV</value>
+    </ruleItems>
+    <ruleItems>
+        <field>Account.BillingPostalCode</field>
+        <operation>notEqual</operation>
+        <value>89301,89311,89314,89315,89316,89317,89318,89319,89801,89802,89803,89815,89821,89822,89823,89824,89825,89826,89828,89830,89831,89832,89833,89834,89835,89883</value>
+    </ruleItems>
+</Territory2Rule>

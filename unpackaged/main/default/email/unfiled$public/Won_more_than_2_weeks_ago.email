@@ -1,0 +1,8 @@
+Automated Message from Salesforce
+****************************************
+
+Expected Order Date: {!Opportunity.CloseDate}
+
+Project "{!Opportunity.Name}" was marked "Won" more than 2 weeks ago but has not been completely written. Notes or other field last modified on {!Opportunity.LastModifiedDate} by {!Opportunity.LastModifiedBy}.
+
+Please follow up with the customer to determine what is needed to close this order.
